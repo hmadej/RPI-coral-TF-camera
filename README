@@ -5,6 +5,13 @@ perform object detection, the output is streamed out with a simple web server, a
 is labeled on the video stream.
 
 
+REQUIREMENTS:
+Raspberry Pi v4 4GB
+16gb microsd card
+Coral.ai  USB Accelator Edge TPU
+Pi Camera v2
+
+
 TODO:
 
 -Annotate with box objects that are detected
