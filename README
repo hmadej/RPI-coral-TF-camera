@@ -1,6 +1,6 @@
 PI-CAM
 
-This project uses a raspberry pi [v4-4gb], Pi-Camera v2, and a coral edge TPU accelerator [USB] and tensorflow lite to
+This project uses a raspberry pi [v4-4gb], Pi-Camera v2, Coral.ai edge TPU accelerator [USB] and tensorflow lite to
 perform object detection, the output is streamed out with a simple web server, and the object with the highest probability
 is labeled on the video stream.
 
