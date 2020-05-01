@@ -1,0 +1,14 @@
+PI-CAM
+
+This project uses a raspberry pi [v4-4gb], Pi-Camera v2, and a coral edge TPU accelerator [USB] and tensorflow lite to
+perform object detection, the output is streamed out with a simple web server, and the object with the highest probability
+is labeled on the video stream.
+
+
+TODO:
+
+-Annotate with box objects that are detected
+-Rewrite web server using Flask
+-Allow viewing of detection history, with clip of detection
+-Allow other models to be run, such as classification
+-Allow remote streams to be processed
