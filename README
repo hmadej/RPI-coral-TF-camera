@@ -19,3 +19,4 @@ TODO:
 -Allow viewing of detection history, with clip of detection
 -Allow other models to be run, such as classification
 -Allow remote streams to be processed
+-Script for downloading required files, and installing required libraries.
